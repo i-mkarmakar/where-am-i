@@ -1,7 +1,7 @@
 {
   "name": "where-am-i",
   "version": "1.0.0",
-  "description": "Where am I – A lightweight backend for live location sharing.",
+  "description": "A lightweight server for live location sharing.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
